@@ -2,10 +2,10 @@
     {
         "name": "tweetAbout",
         "name_pretty": "About",
-        "description": "What is the tweet talking about?",
+        "description": "Does the tweet speak about a place, person, an event or another topic?",
         "gold": false,
         "justification": {
-            "text": "Please justify your answer",
+            "text": "Write a justification about your choice (minimum 10 words)",
             "min_words": 10
         },
         "url": false,
@@ -73,7 +73,7 @@
     {
         "name": "tweetWords",
         "name_pretty": "Words",
-        "description": "How many words are in the tweet?",
+        "description": "How many words does the tweet contain?",
         "gold": true,
         "justification": false,
         "url": false,
