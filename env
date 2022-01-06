@@ -1,0 +1,11 @@
+mail_contact=giunta.marco@spes.uniud.it
+budget_limit=1.0
+task_name=SocComP2
+batch_name=Sample-1
+admin_user=socadmin
+admin_password=socpassword
+server_config=aws
+aws_region=eu-south-1
+aws_private_bucket=soccom-crowd-priv
+aws_deploy_bucket=soccom-crowd-deploy-it
+deploy_config=true
