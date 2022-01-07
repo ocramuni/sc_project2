@@ -17,13 +17,7 @@
                 "free_text": false,
                 "detail": null,
                 "show_detail": false
-            }
-        ]
-    },  
-    {
-        "type": "standard",
-        "position": "start",
-        "questions": [
+            },
             {
                 "name": "time",
                 "text": "How long do you spend on Twitter every day?",
@@ -37,13 +31,7 @@
                 "free_text": false,
                 "detail": null,
                 "show_detail": false
-            }
-        ]
-    },
-    {
-        "type": "standard",
-        "position": "start",
-        "questions": [
+            },
             {
                 "name": "interaction",
                 "text": "Lets compare how often do you have an active interaction with tweet or retweet?",
@@ -58,13 +46,7 @@
                 "free_text": false,
                 "detail": null,
                 "show_detail": false
-            }
-        ]
-    },
-    {
-        "type": "standard",
-        "position": "start",
-        "questions": [
+            },
             {
                 "name": "shopping",
                 "text": "Have you ever bought something that you have seen it on Twitter?",
