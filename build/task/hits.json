@@ -24,7 +24,7 @@
                 "name": "tweet_12"
             },
             {
-                "id": "GOLD-1455343431140601856",
+                "id": "1455343431140601856",
                 "username": "Dr_Hai_Dong",
                 "created_at": "2021-11-02T01:18:07.000Z",
                 "text": "This is the first work in this field that explores the use of deep learning technologies and non-privacy-sensitive user profile data for detecting social media identity cloning attacks. #SocialMedia #identity",
@@ -42,7 +42,7 @@
                 "name": "tweet_8"
             },
             {
-                "id": "1452791358427521025",
+                "id": "GOLD-1452791358427521025",
                 "username": "AlinaBeeTweets",
                 "created_at": "2021-10-26T00:17:06.000Z",
                 "text": "Great summary of https://t.co/maUfpMSLZF. Incl. Transformers, Large Language Models, Diffusion models replacing GANs, AlphaFold, MuZero, Codex using GPT-3, DALL-E, CLIP, PyTorch (60%) JAX language incoming #stateofAI",
@@ -391,7 +391,7 @@
                 "created_at": "Thu Oct 14 14:56:07 +0000 2021",
                 "text": "Yoshua Bengio speaking now at @acai2021 on Social and Beneficial AI #responsibleAI #ai4good @acai2021 @Mila_Quebec https://t.co/kE431yy7Z7",
                 "lang": "en",
-                "words": 17,
+                "words": 16,
                 "name": "tweet_1"
             },
             {
@@ -674,7 +674,7 @@
                 "created_at": "Thu Oct 14 14:56:07 +0000 2021",
                 "text": "Yoshua Bengio speaking now at @acai2021 on Social and Beneficial AI #responsibleAI #ai4good @acai2021 @Mila_Quebec https://t.co/kE431yy7Z7",
                 "lang": "en",
-                "words": 17,
+                "words": 16,
                 "name": "tweet_1"
             },
             {
@@ -762,7 +762,7 @@
                 "created_at": "Thu Oct 14 14:56:07 +0000 2021",
                 "text": "Yoshua Bengio speaking now at @acai2021 on Social and Beneficial AI #responsibleAI #ai4good @acai2021 @Mila_Quebec https://t.co/kE431yy7Z7",
                 "lang": "en",
-                "words": 17,
+                "words": 16,
                 "name": "tweet_1"
             },
             {
