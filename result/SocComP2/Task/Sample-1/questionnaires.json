@@ -1,0 +1,65 @@
+[
+    {
+        "type": "standard",
+        "position": "start",
+        "questions": [
+            {
+                "name": "usage",
+                "text": "What is your main use on Twitter?",
+                "answers": [
+                    "Entertainment",
+                    "Politics",
+                    "Current news",
+                    "Other things"
+                ],
+                "type": "mcq",
+                "required": true,
+                "free_text": false,
+                "detail": null,
+                "show_detail": false
+            },
+            {
+                "name": "time",
+                "text": "How long do you spend on Twitter every day?",
+                "answers": [
+                    "Less then 5 min",
+                    "Between 10 or 20 min",
+                    "More then half an hour"
+                ],
+                "type": "mcq",
+                "required": true,
+                "free_text": false,
+                "detail": null,
+                "show_detail": false
+            },
+            {
+                "name": "interaction",
+                "text": "Lets compare how often do you have an active interaction with tweet or retweet?",
+                "answers": [
+                    "Every day",
+                    "Twice a week",
+                    "Every week",
+                    "I don't have any"
+                ],
+                "type": "mcq",
+                "required": true,
+                "free_text": false,
+                "detail": null,
+                "show_detail": false
+            },
+            {
+                "name": "shopping",
+                "text": "Have you ever bought something that you have seen it on Twitter?",
+                "answers": [
+                    "Yes",
+                    "No"
+                ],
+                "type": "mcq",
+                "required": true,
+                "free_text": false,
+                "detail": null,
+                "show_detail": false
+            }
+        ]
+    }
+]

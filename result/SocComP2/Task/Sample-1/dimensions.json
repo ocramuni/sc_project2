@@ -1,0 +1,122 @@
+[
+    {
+        "name": "tweetAbout",
+        "name_pretty": "About",
+        "description": "Does the tweet speak about a place, person, an event or another topic?",
+        "gold": false,
+        "justification": {
+            "text": "Write a justification about your choice (minimum 10 words)",
+            "min_words": 10
+        },
+        "url": false,
+        "scale": {
+            "type": "categorical",
+            "mapping": [
+                {
+                    "label": "A place",
+                    "description": "",
+                    "value": "1"
+                },
+                {
+                    "label": "People",
+                    "description": "",
+                    "value": "2"
+                },
+                {
+                    "label": "An event",
+                    "description": "",
+                    "value": "3"
+                },
+                {
+                    "label": "Other topic",
+                    "description": "",
+                    "value": "4"
+                }
+            ]
+        },
+        "style": {
+            "position": "middle",
+            "orientation": "vertical",
+            "separator": false,
+            "type": "list"
+        }
+    },
+    {
+        "name": "tweetOpinion",
+        "name_pretty": "Opinion",
+        "description": "Does the tweet express an opinion?",
+        "gold": false,
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "categorical",
+            "mapping": [
+                {
+                    "label": "Yes",
+                    "description": "",
+                    "value": "1"
+                },
+                {
+                    "label": "No",
+                    "description": "",
+                    "value": "0"
+                }
+            ]
+        },
+        "style": {
+            "position": "middle",
+            "orientation": "vertical",
+            "separator": false,
+            "type": "list"
+        }
+    },
+    {
+        "name": "tweetWords",
+        "name_pretty": "Words",
+        "description": "How many words does the tweet contain?",
+        "gold": true,
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "interval",
+            "min": 1,
+            "max": 240,
+            "step": 1
+        },
+        "style": {
+            "position": "middle",
+            "type": "list",
+            "orientation": "vertical",
+            "separator": false
+        }
+    },
+    {
+        "name": "tweetAcademic",
+        "name_pretty": "Academic",
+        "description": "Is the tweet related to academic topics?",
+        "gold": false,
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "categorical",
+            "mapping": [
+                {
+                    "label": "Yes",
+                    "description": "",
+                    "value": "1"
+                },
+                {
+                    "label": "No",
+                    "description": "",
+                    "value": "0"
+                }
+            ]
+        },
+        "style": {
+            "position": "middle",
+            "orientation": "vertical",
+            "separator": false,
+            "type": "list"
+        }
+    }
+]

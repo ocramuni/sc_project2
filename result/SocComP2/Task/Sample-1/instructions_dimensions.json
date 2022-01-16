@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Evaluation Instructions",
+        "text": "<p>Choose for every question the answer that you think is the most appropriate.</p><p>Tweet text: <q>@Fullblownape @cryptocomnft Follow restrictions have limited us to only a couple hundred a day. If you break it you get a heavy restriction for three days. Happened to me</q><p>When counting the number of words of the tweet, consider as words any sequence of characters separated by a space. (e.g. the phrase <q>I'll study history @alex123 #hashtag123 www.example.com</q> contains 7 words).</p>"
+    }
+]
