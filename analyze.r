@@ -80,5 +80,13 @@ ggplot(questionary2 %>% mutate(TC=paste(q_0_3_answer_text_percent, suffix ="%" )
   scale_x_discrete(limits = c("Yes", "No")) +
   theme_minimal()+ theme(legend.title	=element_blank()) 
 
+#calcolo giustificazioni: lunghezza media, giust lung max e min
+
+z<-workers_data %>% filter(nchar(workers_data$doc_tweetAbout_justification)>0)
+k<-nchar(z$doc_tweetAbout_justification)
+mean(k)
+
+z[which(k == max(k)),"doc_tweetAbout_justification"]
+z[which(k == min(k)),"doc_tweetAbout_justification"]
 
 
