@@ -107,4 +107,8 @@ max(k1)
 z[which(k1 == min(k1)),"doc_tweetAbout_justification"]
 min(k1)
 
+#lunghezza media tweet (parole)
 
+z<-workers_data %>% filter(workers_data$doc_tweetWords_value!="NA") %>% select(doc_tweetWords_value)
+
+mean(z$doc_tweetWords_value)
